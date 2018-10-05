@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October,  4th, 2018 
 
 ### Student Name:  
-(First and Last Name)
+Kallayah Henderson 
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project calculates the percentage of money you spend on things every month. It uses several methods to do so.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://kallayah26.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to correctly use the getElementById() method with multiple variables.
+2. How and why to use the parseFloat() method in order to convert a string into an integer.
+3. How to use the toFixed() method to ensure that the number of digits after the decimal places are correct. 
 
 
 
